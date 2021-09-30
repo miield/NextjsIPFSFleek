@@ -1,0 +1,23 @@
+{
+  "name": "nextjsipfsfleek",
+  "version": "1.0.0",
+  "description": "Deploying Nextjs Project on IPFS Fleek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miield/NextjsIPFSFleek.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miield/NextjsIPFSFleek/issues"
+  },
+  "homepage": "https://github.com/miield/NextjsIPFSFleek#readme"
+}
